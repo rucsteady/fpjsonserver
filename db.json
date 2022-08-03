@@ -166,5 +166,12 @@
       "isReady": false
     }
   ],
-  "journals": []
+  "journal": [
+    {
+      "id": "XFr-Q1FulbwSsLs_UfWYW",
+      "title": "Eintrag ohne Titel",
+      "body": "",
+      "lastModified": 1658682467469
+    }
+  ]
 }
