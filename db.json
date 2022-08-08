@@ -168,10 +168,13 @@
   ],
   "journals": [
     {
-      "id": "XFr-Q1FulbwSsLs_UfWYW",
-      "title": "Eintrag ohne Titel",
-      "body": "",
-      "lastModified": 1658682467469
+      "id": "k26xj59VWkBob3-KbUufg",
+      "title": "8.8.2022 - Erster Eintrag",
+      "body": "Voreingestellt.",
+      "one": "Eins",
+      "two": "Zwei",
+      "three": "Drei",
+      "lastModified": 1659954865442
     }
   ]
 }
